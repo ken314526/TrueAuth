@@ -19,8 +19,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
-    "trueauth": "file:",
-    "uuid": "^10.0.0"
+    "trueauth": "file:"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",

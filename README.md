@@ -5,12 +5,13 @@
 ## Table of Contents
 
 1. [Technologies Used](#technologies-used)
-2. [Getting Started](#getting-started)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
    - [Configuration](#configuration)
-3. [Usage](#usage)
-4. [Author](#author)
+4. [Usage](#usage)
+5. [Author](#author)
 
 ## Technologies Used
 
@@ -19,13 +20,22 @@
 - **`TypeScript:`** Static type checking for JavaScript.
 - **`Tailwind CSS`**: Utility-first CSS framework.
 - **`Axios:`** Promise-based HTTP client for making requests.
-- **`bcryptjs:`** Library for hashing passwords.
-- **`jsonwebtoken:`** For generating and verifying JSON Web Tokens.
-- **`mongoose:`** ODM library for MongoDB.
-- **`nanoid:`** Small, secure, URL-friendly unique ID generator.
-- **`nodemailer:`** Module for sending emails.
-- **`react-hot-toast`**: Simple and customizable toast notifications.
+- **`BcryptJS:`** Library for hashing passwords.
+- **`JsoWebToken:`** For generating and verifying JSON Web Tokens.
+- **`Mongoose:`** ODM library for MongoDB.
+- **`Nanoid:`** Small, secure, URL-friendly unique ID generator.
+- **`Nodemailer:`** Module for sending emails.
+- **`React Hot Toast`**: Simple and customizable toast notifications.
 - **`uuid:`** Library for generating unique IDs.
+
+## Features
+
+- **`Sign Up`**
+- **`Log In with OTP`**
+- **`Forgot Password`**
+- **`Reset Password`**
+- **`Profile Page`**
+- **`Log Out`**
 
 ## Getting Started
 
